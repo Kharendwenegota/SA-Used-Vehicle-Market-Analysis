@@ -1,0 +1,18 @@
+
+
+The business problem
+
+Imagine you're working for a company like a used-car marketplace.
+
+Management wants to know:
+
+Which brands are most popular?
+Which cars retain their value?
+What factors drive vehicle prices?
+Which provinces have the highest demand?
+Are dealers pricing vehicles competitively?
+Which vehicles provide the best value for customers?
+
+"What determines the price of a used car in South Africa, and which vehicles offer the best value?"
+
+Business analytics, pricing analysis, consumer behaviour and data visualization.

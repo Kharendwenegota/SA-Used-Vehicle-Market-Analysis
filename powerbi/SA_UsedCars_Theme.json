@@ -1,0 +1,32 @@
+{
+  "name": "SA Used Cars",
+  "dataColors": ["#0B3C5D", "#328CC1", "#D9B310", "#3D9970", "#E07A5F", "#5FA8D3", "#8AA1B4", "#1D2731"],
+  "background": "#FFFFFF",
+  "foreground": "#1D2731",
+  "tableAccent": "#0B3C5D",
+  "textClasses": {
+    "label":   { "fontFace": "Segoe UI", "fontSize": 10, "color": "#4A5A6A" },
+    "title":   { "fontFace": "Segoe UI Semibold", "fontSize": 12, "color": "#0B3C5D" },
+    "callout": { "fontFace": "Segoe UI Semibold", "fontSize": 26, "color": "#0B3C5D" },
+    "header":  { "fontFace": "Segoe UI Semibold", "fontSize": 12, "color": "#0B3C5D" }
+  },
+  "visualStyles": {
+    "page": {
+      "*": {
+        "background": [{ "color": { "solid": { "color": "#F3F5F8" } }, "transparency": 0 }]
+      }
+    },
+    "*": {
+      "*": {
+        "title": [{
+          "show": true,
+          "fontColor": { "solid": { "color": "#0B3C5D" } },
+          "fontSize": 12,
+          "fontFamily": "Segoe UI Semibold"
+        }],
+        "background": [{ "show": true, "color": { "solid": { "color": "#FFFFFF" } }, "transparency": 0 }],
+        "border": [{ "show": true, "color": { "solid": { "color": "#E1E6EC" } }, "radius": 8 }]
+      }
+    }
+  }
+}
