@@ -219,4 +219,6 @@ The report also applies a report-level filter on `Year ≥ 2014`. The script alr
 **Kharendwe** · Johannesburg, South Africa
 GitHub: [@Kharendwenegota](https://github.com/Kharendwenegota)
 
-*Add your LinkedIn link here.*
+LinkedIn: [@Kharendwenegota](https://linkedin.com/in/kharendwe-negota)
+
+Email: [kharendwenegota3@gmail.com](mailto:kharendwenegota3@gmail.com)
