@@ -67,7 +67,7 @@ All pages share the same filters (province, brand, vehicle type, fuel, transmiss
 ## Data
 
 **File:** `data/raw/SA_Used_Vehicle_Market_RAW.csv`, 10,025 rows and 16 columns, listings from January to September 2026.
-**Source:** *add the source and licence of the dataset here.*
+**Source:** IA generated for educational experiences 
 
 | Column | Description |
 |---|---|
