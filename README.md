@@ -19,7 +19,6 @@ A four-page Power BI dashboard, built on about 10,000 used-car listings, that an
 |---|---|
 | ![Value Retention](images/value_retention.png) | ![Pricing and Best Value](images/pricing_best_value.png) |
 
-> Add your screenshots to an `images/` folder using these file names.
 
 ---
 
