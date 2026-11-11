@@ -50,6 +50,46 @@ The full write-up is in [`PROJECT_SUMMARY.md`](PROJECT_SUMMARY.md).
 
 ---
 
+## Recommendations
+
+Based on the analysis of 9,992 used-vehicle listings, the following recommendations highlight opportunities for improving inventory planning, pricing strategies and purchasing decisions within the South African used-vehicle market.
+
+### 1. Optimise Inventory Planning Around Leading Vehicle Brands
+
+Toyota, Volkswagen and Ford account for approximately 39% of all listings, with Toyota representing the largest share at 19.5%.
+
+**Recommendation:** Dealerships should consider prioritising these brands when planning inventory acquisition and marketing strategies, as they represent a significant portion of the available market. However, stock allocation should also be guided by sales performance, profit margins and inventory turnover to ensure that high listing volumes translate into viable business opportunities.
+
+### 2. Incorporate Vehicle Age and Depreciation into Purchasing Decisions
+
+Vehicles retain approximately 74% of their value after 3–5 years, 53% after 6–8 years and 36% after nine or more years. The analysis also indicates broadly similar depreciation patterns between premium and mass-market vehicles.
+
+**Recommendation:** Buyers and dealerships should pay particular attention to vehicle age when evaluating purchase prices and potential resale value. Vehicles within the 3–5-year range may offer a favourable balance between depreciation and remaining value. Businesses should also avoid assuming that premium vehicles necessarily provide better value retention.
+
+### 3. Adopt Data-Driven Vehicle Pricing Strategies
+
+Make, model and age account for approximately 95% of price variation, increasing to approximately 97% when mileage is included.
+
+**Recommendation:** Dealerships and online marketplaces should incorporate these factors into their pricing strategies by benchmarking vehicles against comparable listings. This would help sellers establish more competitive asking prices, reduce pricing inconsistencies and enable buyers to make better-informed purchasing decisions.
+
+### 4. Introduce Market-Based Pricing Indicators
+
+Approximately 60% of listings are priced within 10% of comparable vehicles, while 20% are at least 10% below and another 20% are at least 10% above the benchmark.
+
+**Recommendation:** Online marketplaces should consider introducing comparative pricing indicators to help buyers and sellers evaluate listing prices against similar vehicles. Listings priced significantly above the benchmark could be flagged for review, while competitively priced listings could receive additional visibility. This would improve pricing transparency and help customers identify potentially attractive purchasing opportunities.
+
+### 5. Develop a Best-Value Vehicle Identification Strategy
+
+The analysis identified 230 listings that were priced at least 10% below comparable vehicles, had below-average or average mileage relative to their comparison group, and included a full service history.
+
+**Recommendation:** Marketplaces should consider introducing a best-value vehicle category that highlights listings combining competitive prices, reasonable mileage and documented service history. This could simplify vehicle comparisons, improve the customer purchasing experience and help buyers identify potentially worthwhile deals. However, vehicle condition and history should still be independently verified before purchase.
+
+### Overall Recommendation
+
+Used-car businesses should strengthen their decision-making processes through data-driven inventory planning, competitive pricing and vehicle evaluation. The findings demonstrate the value of using vehicle characteristics and comparable market listings to identify pricing opportunities and support more informed purchasing decisions. Incorporating actual sales data, customer enquiries and vehicle condition information in future analysis would further improve the reliability and commercial relevance of these recommendations.
+
+---
+
 ## Dashboard pages
 
 | Page | Question it answers | Main visuals |
@@ -66,7 +106,7 @@ All pages share the same filters (province, brand, vehicle type, fuel, transmiss
 ## Data
 
 **File:** `data/raw/SA_Used_Vehicle_Market_RAW.csv`, 10,025 rows and 16 columns, listings from January to September 2026.
-**Source:** IA generated for educational experiences 
+**Source:** AI generated for educational experiences 
 
 | Column | Description |
 |---|---|
