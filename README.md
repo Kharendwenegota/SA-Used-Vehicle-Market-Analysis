@@ -206,6 +206,23 @@ Other measures include `Listings`, `Avg Price`, `Median Price`, `Below Market %`
 
 ---
 
+
+## AI Usage and Acknowledgement
+
+AI tools were used throughout this project as supportive resources to improve productivity, assist with problem-solving and strengthen the overall analytical workflow.
+
+AI assistance was primarily used for:
+- **Research and Brainstorming:** Exploring potential business questions, identifying relevant analytical approaches and generating ideas for investigating the used-vehicle market.
+- **Technical Assistance:** Supporting Python, SQL and Power BI development through explanations, troubleshooting and guidance on analytical techniques.
+- **Data Analysis:** Exploring possible interpretations of analytical findings and identifying additional perspectives to consider.
+- **Documentation:** Improving the structure, clarity and presentation of project documentation, including the README and business recommendations.
+
+**Responsible AI Use:** AI-generated suggestions and outputs were reviewed, evaluated and adapted throughout the project. Final analytical decisions, validation of findings, interpretation of results and project direction remained my responsibility.
+
+AI was used as an assistance tool rather than a replacement for independent analysis, critical thinking or technical understanding.
+
+---
+
 ## Repository structure
 
 ```
