@@ -106,7 +106,7 @@ All pages share the same filters (province, brand, vehicle type, fuel, transmiss
 ## Data
 
 **File:** `data/raw/SA_Used_Vehicle_Market_RAW.csv`, 10,025 rows and 16 columns, listings from January to September 2026.
-**Source:** AI generated for educational experiences 
+**Data Source:** AI-generated synthetic dataset developed to simulate the South African used-vehicle market for educational and analytical purposes.
 
 | Column | Description |
 |---|---|
